@@ -1,1 +1,2 @@
 # ComponentName | ID           | Label           | ParentID
+bwmd_concepts        | https://w3id.org/pmd/co/PMD_00001987    | material ID  | https://w3id.org/pmd/co/PMD_0000017
