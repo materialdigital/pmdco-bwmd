@@ -113,6 +113,10 @@ import_group:
 components:
   products:
     - filename: bwmd_concepts.owl
+      use_template: true
+      template_options: --add-prefixes config/context.json
+      templates:
+        - bwmd_concepts.tsv
 # ------------------------------------------------------------------------------
 # RELEASES
 # ------------------------------------------------------------------------------
