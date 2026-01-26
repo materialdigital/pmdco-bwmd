@@ -55,11 +55,11 @@ uribase: "https://w3id.org/pmd/co"
 
 # uribase_suffix: Your ontology ID (gets appended to uribase)
 # Combined result: https://w3id.org/pmd/co/<uribase_suffix>/
-uribase_suffix: "placeholder_id"
+uribase_suffix: "bwmd"
 
 # preferredPrefix: Uppercase prefix used in entity IDs and serializations
 # Example: "TRYCE" results in entity IDs like TRYCE_0000001
-preferredPrefix: "PLACEHOLDER"
+preferredPrefix: "BWMD"
 
 # ------------------------------------------------------------------------------
 # NAMESPACES
@@ -99,7 +99,7 @@ import_group:
       # Source of PMD Core ontology to import
       mirror_from: "https://raw.githubusercontent.com/materialdigital/core-ontology/refs/heads/main/pmdco-full.owl"
       # slme: Extract only terms referenced in your ontology (reduces file size)
-      module_type: slme
+      module_type: mirror
       # base_iris: Tells ODK which IRI patterns belong to PMD Core
       # This prevents PMD Core entities from being treated as local entities
       base_iris:
