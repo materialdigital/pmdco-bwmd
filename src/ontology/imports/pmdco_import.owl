@@ -4038,7 +4038,7 @@ AnnotationAssertion(skos:definition pmd:PMD_0000056 "Ein Schmelzofen ist ein Ger
 SubClassOf(pmd:PMD_0000056 pmd:PMD_0000780)
 SubClassOf(pmd:PMD_0000056 ObjectIntersectionOf(pmd:PMD_0000655 ObjectSomeValuesFrom(obo:RO_0000085 pmd:PMD_0000057)))
 
-# Class: pmd:PMD_0000057 (melting function)
+# Class: pmd:PMD_0000057 (Schmelzfunktion)
 
 AnnotationAssertion(rdfs:label pmd:PMD_0000057 "Schmelzfunktion"@de)
 AnnotationAssertion(rdfs:label pmd:PMD_0000057 "melting function"@en)
@@ -4502,7 +4502,7 @@ AnnotationAssertion(skos:definition pmd:PMD_0000541 "A CNC machine is a forming 
 AnnotationAssertion(skos:definition pmd:PMD_0000541 "Eine CNC-Maschine ist eine Formmaschine, die zur präzisen Steuerung von Bearbeitungswerkzeugen für Schneid-, Bohr-, Fräs- und andere Aufgaben computergestützte numerische Steuerung verwendet."@de)
 SubClassOf(pmd:PMD_0000541 pmd:PMD_0000648)
 
-# Class: pmd:PMD_0000542 (cnc welding machine)
+# Class: pmd:PMD_0000542 (CNC-Schweißmaschine)
 
 AnnotationAssertion(rdfs:label pmd:PMD_0000542 "CNC-Schweißmaschine"@de)
 AnnotationAssertion(rdfs:label pmd:PMD_0000542 "cnc welding machine"@en)
@@ -4885,7 +4885,7 @@ AnnotationAssertion(skos:definition pmd:PMD_0000587 "The crack growth is an evol
 AnnotationAssertion(pmd:PMD_0000060 pmd:PMD_0000587 "true"^^xsd:boolean)
 SubClassOf(pmd:PMD_0000587 pmd:PMD_0000635)
 
-# Class: pmd:PMD_0000588 (creep testing machine)
+# Class: pmd:PMD_0000588 (Kriechprüfmaschine)
 
 AnnotationAssertion(rdfs:label pmd:PMD_0000588 "Kriechprüfmaschine"@de)
 AnnotationAssertion(rdfs:label pmd:PMD_0000588 "creep testing machine"@en)
@@ -5342,7 +5342,7 @@ AnnotationAssertion(skos:definition pmd:PMD_0000649 "Ein Umform Prozess, bei dem
 AnnotationAssertion(skos:example pmd:PMD_0000649 "Stripping, Deep Drawing, Spinning"@en)
 SubClassOf(pmd:PMD_0000649 pmd:PMD_0000646)
 
-# Class: pmd:PMD_0000650 (forming under compressive conditions)
+# Class: pmd:PMD_0000650 (Druckumformen)
 
 AnnotationAssertion(obo:IAO_0000119 pmd:PMD_0000650 "Official definition can be found in: DIN 8583-1"@en)
 AnnotationAssertion(dcterms:source pmd:PMD_0000650 "Offizielle Definition findet man in: DIN 8583-1"@de)
@@ -5394,7 +5394,7 @@ EquivalentClasses(pmd:PMD_0000654 ObjectIntersectionOf(pmd:PMD_0000000 ObjectSom
 SubClassOf(pmd:PMD_0000654 pmd:PMD_0000000)
 SubClassOf(pmd:PMD_0000654 ObjectSomeValuesFrom(obo:BFO_0000050 ObjectIntersectionOf(obo:BFO_0000030 ObjectSomeValuesFrom(obo:RO_0000085 obo:BFO_0000034))))
 
-# Class: pmd:PMD_0000655 (furnace)
+# Class: pmd:PMD_0000655 (Ofen)
 
 AnnotationAssertion(obo:IAO_0000119 pmd:PMD_0000655 "“Furnace.” Merriam-Webster.com Dictionary, Merriam-Webster, https://www.merriam-webster.com/dictionary/furnace. Accessed 13 Jan. 2023."@en)
 AnnotationAssertion(rdfs:label pmd:PMD_0000655 "Ofen"@de)
@@ -5768,7 +5768,7 @@ AnnotationAssertion(skos:definition pmd:PMD_0000799 "A device used for analyzing
 AnnotationAssertion(skos:definition pmd:PMD_0000799 "Ein Gerät zur Analyse von Ionen in einer Probe zur Bestimmung ihrer Zusammensetzung und Konzentration."@de)
 SubClassOf(pmd:PMD_0000799 pmd:PMD_0000602)
 
-# Class: pmd:PMD_0000800 (Ionenspektroskopie)
+# Class: pmd:PMD_0000800 (ion spectroscopy)
 
 AnnotationAssertion(rdfs:label pmd:PMD_0000800 "Ionenspektroskopie"@de)
 AnnotationAssertion(rdfs:label pmd:PMD_0000800 "ion spectroscopy"@en)
@@ -5832,7 +5832,7 @@ AnnotationAssertion(skos:definition pmd:PMD_0000807 "Ein Fügeverfahren, bei dem
 AnnotationAssertion(skos:example pmd:PMD_0000807 "Pouring, Embedding, Encasing"@en)
 SubClassOf(pmd:PMD_0000807 pmd:PMD_0000806)
 
-# Class: pmd:PMD_0000808 (joining by shaping)
+# Class: pmd:PMD_0000808 (Fügen Durch Umformen)
 
 AnnotationAssertion(obo:IAO_0000119 pmd:PMD_0000808 "Official definition can be found in: DIN 8593-5"@en)
 AnnotationAssertion(obo:IAO_0000119 pmd:PMD_0000808 "Offizielle Definition findet man in: DIN 8593-5"@de)
@@ -6251,7 +6251,7 @@ AnnotationAssertion(skos:definition pmd:PMD_0000875 "Ein Mikroskopieverfahren, d
 AnnotationAssertion(skos:example pmd:PMD_0000875 "An example is Light Microscopy."@en)
 SubClassOf(pmd:PMD_0000875 pmd:PMD_0000856)
 
-# Class: pmd:PMD_0000876 (optical profilometer)
+# Class: pmd:PMD_0000876 (Optisches Profilometer)
 
 AnnotationAssertion(rdfs:label pmd:PMD_0000876 "Optisches Profilometer"@de)
 AnnotationAssertion(rdfs:label pmd:PMD_0000876 "optical profilometer"@en)
@@ -6403,7 +6403,7 @@ AnnotationAssertion(skos:definition pmd:PMD_0000899 "Ein Herstellungsprozess, de
 AnnotationAssertion(skos:example pmd:PMD_0000899 "Casting, Sintering"@en)
 SubClassOf(pmd:PMD_0000899 pmd:PMD_0000833)
 
-# Class: pmd:PMD_0000900 (primary shaping by additive manufacturing)
+# Class: pmd:PMD_0000900 (Urformen Durch Additive Fertigung)
 
 AnnotationAssertion(rdfs:label pmd:PMD_0000900 "Urformen Durch Additive Fertigung"@de)
 AnnotationAssertion(rdfs:label pmd:PMD_0000900 "primary shaping by additive manufacturing"@en)
@@ -7000,7 +7000,7 @@ AnnotationAssertion(skos:example pmd:PMD_0000979 "Measuring the thermal conducti
 AnnotationAssertion(pmd:PMD_0050117 pmd:PMD_0000979 "TCMP"@en)
 SubClassOf(pmd:PMD_0000979 pmd:PMD_0000982)
 
-# Class: pmd:PMD_0000980 (thermal conductivity measuring function)
+# Class: pmd:PMD_0000980 (Wärmeleitfähigkeitsmessfunktion)
 
 AnnotationAssertion(rdfs:label pmd:PMD_0000980 "Wärmeleitfähigkeitsmessfunktion"@de)
 AnnotationAssertion(rdfs:label pmd:PMD_0000980 "thermal conductivity measuring function"@en)
