@@ -4038,7 +4038,7 @@ AnnotationAssertion(skos:definition pmd:PMD_0000056 "Ein Schmelzofen ist ein Ger
 SubClassOf(pmd:PMD_0000056 pmd:PMD_0000780)
 SubClassOf(pmd:PMD_0000056 ObjectIntersectionOf(pmd:PMD_0000655 ObjectSomeValuesFrom(obo:RO_0000085 pmd:PMD_0000057)))
 
-# Class: pmd:PMD_0000057 (Schmelzfunktion)
+# Class: pmd:PMD_0000057 (melting function)
 
 AnnotationAssertion(rdfs:label pmd:PMD_0000057 "Schmelzfunktion"@de)
 AnnotationAssertion(rdfs:label pmd:PMD_0000057 "melting function"@en)
@@ -4420,7 +4420,7 @@ AnnotationAssertion(skos:definition pmd:PMD_0000530 "Ein Mechanische Eigenschaft
 AnnotationAssertion(skos:example pmd:PMD_0000530 "Testing the flexural strength of a plastic beam to ensure it can withstand the required load in an engineering application."@en)
 SubClassOf(pmd:PMD_0000530 pmd:PMD_0000849)
 
-# Class: pmd:PMD_0000531 (Analyseverfahren der Biokompatibilität)
+# Class: pmd:PMD_0000531 (biocompatibility analyzing process)
 
 AnnotationAssertion(rdfs:label pmd:PMD_0000531 "Analyseverfahren der Biokompatibilität"@de)
 AnnotationAssertion(rdfs:label pmd:PMD_0000531 "biocompatibility analyzing process"@en)
@@ -4502,7 +4502,7 @@ AnnotationAssertion(skos:definition pmd:PMD_0000541 "A CNC machine is a forming 
 AnnotationAssertion(skos:definition pmd:PMD_0000541 "Eine CNC-Maschine ist eine Formmaschine, die zur präzisen Steuerung von Bearbeitungswerkzeugen für Schneid-, Bohr-, Fräs- und andere Aufgaben computergestützte numerische Steuerung verwendet."@de)
 SubClassOf(pmd:PMD_0000541 pmd:PMD_0000648)
 
-# Class: pmd:PMD_0000542 (CNC-Schweißmaschine)
+# Class: pmd:PMD_0000542 (cnc welding machine)
 
 AnnotationAssertion(rdfs:label pmd:PMD_0000542 "CNC-Schweißmaschine"@de)
 AnnotationAssertion(rdfs:label pmd:PMD_0000542 "cnc welding machine"@en)
@@ -4690,7 +4690,7 @@ AnnotationAssertion(skos:definition pmd:PMD_0000564 "Eine Unterfunktion der Besc
 AnnotationAssertion(pmd:PMD_0000060 pmd:PMD_0000564 "true"^^xsd:boolean)
 SubClassOf(pmd:PMD_0000564 pmd:PMD_0000575)
 
-# Class: pmd:PMD_0000565 (Beschichten Durch Löten)
+# Class: pmd:PMD_0000565 (coating by soldering)
 
 AnnotationAssertion(rdfs:label pmd:PMD_0000565 "Beschichten Durch Löten"@de)
 AnnotationAssertion(rdfs:label pmd:PMD_0000565 "coating by soldering"@en)
@@ -5420,7 +5420,7 @@ AnnotationAssertion(skos:definition pmd:PMD_0000657 "A chromatography system use
 AnnotationAssertion(skos:definition pmd:PMD_0000657 "Ein Chromatographiesystem zur Trennung und Analyse von Verbindungen in einem Gasgemisch unter Verwendung einer chromatographischen Säule."@de)
 SubClassOf(pmd:PMD_0000657 pmd:PMD_0000557)
 
-# Class: pmd:PMD_0000658 (Gel-Permeations-Chromatographie Verfahren)
+# Class: pmd:PMD_0000658 (gel permeation chromatography process)
 
 AnnotationAssertion(rdfs:label pmd:PMD_0000658 "Gel-Permeations-Chromatographie Verfahren"@de)
 AnnotationAssertion(rdfs:label pmd:PMD_0000658 "gel permeation chromatography process"@en)
@@ -5768,7 +5768,7 @@ AnnotationAssertion(skos:definition pmd:PMD_0000799 "A device used for analyzing
 AnnotationAssertion(skos:definition pmd:PMD_0000799 "Ein Gerät zur Analyse von Ionen in einer Probe zur Bestimmung ihrer Zusammensetzung und Konzentration."@de)
 SubClassOf(pmd:PMD_0000799 pmd:PMD_0000602)
 
-# Class: pmd:PMD_0000800 (Ionenspektroskopie)
+# Class: pmd:PMD_0000800 (ion spectroscopy)
 
 AnnotationAssertion(rdfs:label pmd:PMD_0000800 "Ionenspektroskopie"@de)
 AnnotationAssertion(rdfs:label pmd:PMD_0000800 "ion spectroscopy"@en)
@@ -6251,7 +6251,7 @@ AnnotationAssertion(skos:definition pmd:PMD_0000875 "Ein Mikroskopieverfahren, d
 AnnotationAssertion(skos:example pmd:PMD_0000875 "An example is Light Microscopy."@en)
 SubClassOf(pmd:PMD_0000875 pmd:PMD_0000856)
 
-# Class: pmd:PMD_0000876 (Optisches Profilometer)
+# Class: pmd:PMD_0000876 (optical profilometer)
 
 AnnotationAssertion(rdfs:label pmd:PMD_0000876 "Optisches Profilometer"@de)
 AnnotationAssertion(rdfs:label pmd:PMD_0000876 "optical profilometer"@en)
@@ -6814,7 +6814,7 @@ AnnotationAssertion(skos:definition pmd:PMD_0000956 "Ein Simulationsprozess, der
 AnnotationAssertion(skos:example pmd:PMD_0000956 "Optimizing the atomic structure of a catalyst to enhance its performance."@en)
 SubClassOf(pmd:PMD_0000956 pmd:PMD_0000933)
 
-# Class: pmd:PMD_0000957 (structural property analyzing process)
+# Class: pmd:PMD_0000957 (Struktur Eigenschaften Analyseverfahren)
 
 AnnotationAssertion(rdfs:label pmd:PMD_0000957 "Struktur Eigenschaften Analyseverfahren"@de)
 AnnotationAssertion(rdfs:label pmd:PMD_0000957 "structural property analyzing process"@en)
@@ -6846,7 +6846,7 @@ AnnotationAssertion(skos:definition pmd:PMD_0000961 "The sublimation point is a 
 AnnotationAssertion(pmd:PMD_0000060 pmd:PMD_0000961 "true"^^xsd:boolean)
 SubClassOf(pmd:PMD_0000961 pmd:PMD_0020164)
 
-# Class: pmd:PMD_0000962 (Überkritische Fluidchromatographie Verfahren)
+# Class: pmd:PMD_0000962 (supercritical fluid chromatography process)
 
 AnnotationAssertion(rdfs:label pmd:PMD_0000962 "supercritical fluid chromatography process"@en)
 AnnotationAssertion(rdfs:label pmd:PMD_0000962 "Überkritische Fluidchromatographie Verfahren"@de)
