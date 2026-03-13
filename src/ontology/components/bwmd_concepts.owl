@@ -22,7 +22,6 @@ Annotation(owl:versionInfo "Version 1.0.0 (2018): available under https://gitlab
 Version 1.2.0: (2025-03-07) ontology upgraded with classes include in the last BWMD modular version, all classes must have a label and a definition. All labels and comments have an @en tag attached and the format of the labels has been consistelty updated, single words start with capital letter and are separated by a space. This format is compatible with the GraphDesigner App.streamlit run GraphDesigner_5_2_7.py. This version has been applied to create process chain solutions within the projects: Orchestra, DigiChrom, FutureCarProduction, DigitalModelling and bioCharPP.
 
 Version 2.0.0: (2026-03-13) bwmd domain ontology (originally built directly on top of the BFO upper ontology) has been aligned to PMDco3 and formated following the ODK Kit guidelines from Material Digital. For this reason, the IRIs of all classes and properties have been updated with the PMD domain."@en)
-Annotation(owl:versionInfo "Version 1.0.0: available under https://gitlab.cc-asp.fraunhofer.de/gf7_public/iwm-gdtool/-/blob/527055e02c52f58f2c749da5c58add64b4f4fce7/BWMD_legacy/BWMD_Ontologie_2020-08-12.owl"@en)
 Annotation(owl:versionInfo "2026-03-13")
 Annotation(owl:versionInfo "BWMD curated for PMD-X")
 Annotation(skos:definition "This is the BWMD Ontology for the Fraunhofer IWM GraphDesigner App.")
