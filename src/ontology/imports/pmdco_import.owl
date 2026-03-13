@@ -4010,7 +4010,7 @@ AnnotationAssertion(skos:example pmd:PMD_0000053 "The process of melting aluminu
 SubClassOf(pmd:PMD_0000053 obo:COB_0000035)
 SubClassOf(pmd:PMD_0000053 ObjectIntersectionOf(pmd:PMD_0000547 ObjectSomeValuesFrom(obo:OBI_0000293 obo:BFO_0000040) ObjectSomeValuesFrom(obo:OBI_0000299 pmd:PMD_0020139)))
 
-# Class: pmd:PMD_0000054 (Heizfunktion)
+# Class: pmd:PMD_0000054 (heating function)
 
 AnnotationAssertion(rdfs:label pmd:PMD_0000054 "Heizfunktion"@de)
 AnnotationAssertion(rdfs:label pmd:PMD_0000054 "heating function"@en)
@@ -4885,7 +4885,7 @@ AnnotationAssertion(skos:definition pmd:PMD_0000587 "The crack growth is an evol
 AnnotationAssertion(pmd:PMD_0000060 pmd:PMD_0000587 "true"^^xsd:boolean)
 SubClassOf(pmd:PMD_0000587 pmd:PMD_0000635)
 
-# Class: pmd:PMD_0000588 (Kriechprüfmaschine)
+# Class: pmd:PMD_0000588 (creep testing machine)
 
 AnnotationAssertion(rdfs:label pmd:PMD_0000588 "Kriechprüfmaschine"@de)
 AnnotationAssertion(rdfs:label pmd:PMD_0000588 "creep testing machine"@en)
@@ -5394,7 +5394,7 @@ EquivalentClasses(pmd:PMD_0000654 ObjectIntersectionOf(pmd:PMD_0000000 ObjectSom
 SubClassOf(pmd:PMD_0000654 pmd:PMD_0000000)
 SubClassOf(pmd:PMD_0000654 ObjectSomeValuesFrom(obo:BFO_0000050 ObjectIntersectionOf(obo:BFO_0000030 ObjectSomeValuesFrom(obo:RO_0000085 obo:BFO_0000034))))
 
-# Class: pmd:PMD_0000655 (Ofen)
+# Class: pmd:PMD_0000655 (furnace)
 
 AnnotationAssertion(obo:IAO_0000119 pmd:PMD_0000655 "“Furnace.” Merriam-Webster.com Dictionary, Merriam-Webster, https://www.merriam-webster.com/dictionary/furnace. Accessed 13 Jan. 2023."@en)
 AnnotationAssertion(rdfs:label pmd:PMD_0000655 "Ofen"@de)
@@ -5768,7 +5768,7 @@ AnnotationAssertion(skos:definition pmd:PMD_0000799 "A device used for analyzing
 AnnotationAssertion(skos:definition pmd:PMD_0000799 "Ein Gerät zur Analyse von Ionen in einer Probe zur Bestimmung ihrer Zusammensetzung und Konzentration."@de)
 SubClassOf(pmd:PMD_0000799 pmd:PMD_0000602)
 
-# Class: pmd:PMD_0000800 (ion spectroscopy)
+# Class: pmd:PMD_0000800 (Ionenspektroskopie)
 
 AnnotationAssertion(rdfs:label pmd:PMD_0000800 "Ionenspektroskopie"@de)
 AnnotationAssertion(rdfs:label pmd:PMD_0000800 "ion spectroscopy"@en)
@@ -5832,7 +5832,7 @@ AnnotationAssertion(skos:definition pmd:PMD_0000807 "Ein Fügeverfahren, bei dem
 AnnotationAssertion(skos:example pmd:PMD_0000807 "Pouring, Embedding, Encasing"@en)
 SubClassOf(pmd:PMD_0000807 pmd:PMD_0000806)
 
-# Class: pmd:PMD_0000808 (Fügen Durch Umformen)
+# Class: pmd:PMD_0000808 (joining by shaping)
 
 AnnotationAssertion(obo:IAO_0000119 pmd:PMD_0000808 "Official definition can be found in: DIN 8593-5"@en)
 AnnotationAssertion(obo:IAO_0000119 pmd:PMD_0000808 "Offizielle Definition findet man in: DIN 8593-5"@de)
@@ -6088,7 +6088,7 @@ SubClassOf(pmd:PMD_0000848 pmd:PMD_0000005)
 SubClassOf(pmd:PMD_0000848 ObjectSomeValuesFrom(obo:BFO_0000054 pmd:PMD_0000522))
 SubClassOf(pmd:PMD_0000848 ObjectSomeValuesFrom(obo:RO_0000052 pmd:PMD_0000000))
 
-# Class: pmd:PMD_0000849 (mechanical property analyzing process)
+# Class: pmd:PMD_0000849 (Mechanische Eigenschaften Analyseverfahren)
 
 AnnotationAssertion(rdfs:label pmd:PMD_0000849 "Mechanische Eigenschaften Analyseverfahren"@de)
 AnnotationAssertion(rdfs:label pmd:PMD_0000849 "mechanical property analyzing process"@en)
@@ -6242,7 +6242,7 @@ AnnotationAssertion(skos:definition pmd:PMD_0000874 "A microscope that uses visi
 AnnotationAssertion(skos:definition pmd:PMD_0000874 "Ein Mikroskop, das sichtbares Licht und Linsen verwendet, um kleine Objekte oder Details zu vergrößern und zu betrachten."@de)
 SubClassOf(pmd:PMD_0000874 pmd:PMD_0000855)
 
-# Class: pmd:PMD_0000875 (optical microscopy)
+# Class: pmd:PMD_0000875 (Optische Mikroskopie)
 
 AnnotationAssertion(rdfs:label pmd:PMD_0000875 "Optische Mikroskopie"@de)
 AnnotationAssertion(rdfs:label pmd:PMD_0000875 "optical microscopy"@en)
@@ -6403,7 +6403,7 @@ AnnotationAssertion(skos:definition pmd:PMD_0000899 "Ein Herstellungsprozess, de
 AnnotationAssertion(skos:example pmd:PMD_0000899 "Casting, Sintering"@en)
 SubClassOf(pmd:PMD_0000899 pmd:PMD_0000833)
 
-# Class: pmd:PMD_0000900 (Urformen Durch Additive Fertigung)
+# Class: pmd:PMD_0000900 (primary shaping by additive manufacturing)
 
 AnnotationAssertion(rdfs:label pmd:PMD_0000900 "Urformen Durch Additive Fertigung"@de)
 AnnotationAssertion(rdfs:label pmd:PMD_0000900 "primary shaping by additive manufacturing"@en)
@@ -6814,7 +6814,7 @@ AnnotationAssertion(skos:definition pmd:PMD_0000956 "Ein Simulationsprozess, der
 AnnotationAssertion(skos:example pmd:PMD_0000956 "Optimizing the atomic structure of a catalyst to enhance its performance."@en)
 SubClassOf(pmd:PMD_0000956 pmd:PMD_0000933)
 
-# Class: pmd:PMD_0000957 (Struktur Eigenschaften Analyseverfahren)
+# Class: pmd:PMD_0000957 (structural property analyzing process)
 
 AnnotationAssertion(rdfs:label pmd:PMD_0000957 "Struktur Eigenschaften Analyseverfahren"@de)
 AnnotationAssertion(rdfs:label pmd:PMD_0000957 "structural property analyzing process"@en)
@@ -6846,7 +6846,7 @@ AnnotationAssertion(skos:definition pmd:PMD_0000961 "The sublimation point is a 
 AnnotationAssertion(pmd:PMD_0000060 pmd:PMD_0000961 "true"^^xsd:boolean)
 SubClassOf(pmd:PMD_0000961 pmd:PMD_0020164)
 
-# Class: pmd:PMD_0000962 (supercritical fluid chromatography process)
+# Class: pmd:PMD_0000962 (Überkritische Fluidchromatographie Verfahren)
 
 AnnotationAssertion(rdfs:label pmd:PMD_0000962 "supercritical fluid chromatography process"@en)
 AnnotationAssertion(rdfs:label pmd:PMD_0000962 "Überkritische Fluidchromatographie Verfahren"@de)
