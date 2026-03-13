@@ -3,7 +3,7 @@
 Description: PMD Core application ontology generated via ODK Template.
 
 
-More information can be found at http://obofoundry.org/ontology/bwmd
+More information can be found at [http://obofoundry.org/ontology/bwmd](https://materialdigital.github.io/pmdco-bwmd/)
 
 ## Versions
 
